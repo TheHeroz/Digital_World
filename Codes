@@ -1,0 +1,9 @@
+#Libraries
+import numpy as py
+import math
+
+#Start Writing Codes Below
+bigger = 'hi'
+while bigger != 'suck ma ass':
+  bigger = 'suck ma ass'
+
